@@ -10,6 +10,5 @@ node_modules/
 
 # particular extensions
 *.msi
-*.exe
 *.pfx
 *.p12
